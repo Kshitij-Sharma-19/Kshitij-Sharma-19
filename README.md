@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshitij Sharma</h1>
+<h1 align="center">Hi 👋 I'm Kshitij Sharma</h1>
 <h3 align="center">Software Engineering Enthusiast from India 🙏🏼</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Dev**
