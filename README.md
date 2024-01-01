@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kshitij</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3dTRqZzBnZWxsbHFxenIxcWJ4OWp6bXVtY3Q5eWp4NzFnbTB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGMzZvWa5su2O5LCVR/giphy.gif" alt="hi_gif" height="45" align="center"/> I'm Kshitij</h1>
 <h3 align="center">Software Engineering Enthusiast from India 🙏🏼</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Dev**
